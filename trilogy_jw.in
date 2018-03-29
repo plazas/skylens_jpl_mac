@@ -1,0 +1,20 @@
+B
+image_JWST_NIRCAM_SHORT_LAMBDA_F090W_withcl.fits
+
+G
+image_JWST_NIRCAM_SHORT_LAMBDA_F150W_withcl.fits
+
+R
+image_JWST_NIRCAM_SHORT_LAMBDA_F200W_withcl.fits
+
+indir  /Users/dcoe/CLASH/a383/
+outname  JWST_NIRCAM_COLOR_WITHCL
+samplesize 2000
+stampsize  2500
+showstamps  0
+satpercent  0.001
+noiselum    0.15
+colorsatfac  1
+deletetests  0
+sampledx  0
+sampledy  0

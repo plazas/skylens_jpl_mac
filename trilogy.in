@@ -1,0 +1,29 @@
+B
+#image_noisy_HST_ACS_WFC_F475W.fits
+#image_noisy_WFIRST_WFI_Y106.fits
+image_noisy_JWST_NIRCAM_SHORT_LAMBDA_F090W.fits
+#image_noisy_SUBARU_HSC_g.fits
+
+G
+#image_noisy_HST_ACS_WFC_F625W.fits
+#image_noisy_WFIRST_WFI_J129.fits
+image_noisy_JWST_NIRCAM_SHORT_LAMBDA_F150W.fits
+#image_noisy_SUBARU_HSC_i.fits
+
+R
+#image_noisy_HST_ACS_WFC_F775W.fits
+#image_noisy_WFIRST_WFI_H158.fits
+image_noisy_JWST_NIRCAM_SHORT_LAMBDA_F200W.fits
+#image_noisy_SUBARU_HSC_z.fits
+
+indir  /Users/dcoe/CLASH/a383/
+outname  a383
+samplesize 2000
+stampsize  2500
+showstamps  0
+satpercent  0.001
+noiselum    0.15
+colorsatfac  1
+deletetests  0
+sampledx  0
+sampledy  0

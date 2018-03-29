@@ -1,0 +1,28 @@
+/Users/amalagon/STRONG_LENSING/SKYLENS3_SIMULATIONS/stiva/HUDF/archive_max30/
+/Users/maxmen/stiva/DeLucia/g1_dm_cat_069.dat
+po
+30                                   !0.2439                      	! x coordinate of the center
+-20.0                                !-1.1834	                 	! y coordinate of the center
+0.0                                !0.8301     	              	! z coordinate of the center
+xy				! projection
+/Users/amalagon/git/skylens3/listoffiles_andres_ares.list      
+yes				! do you want noise?
+yes				! do you want cluster galaxies?
+no				! do you want to avoid including bkg gals?
+yes				! do you want lensing effects?
+yes				! do you want stars?
+/Users/amalagon/git/skylens3/python/mycat_redu.cat  !catalog
+100.0				! size of the field, 204
+JWST_NIRCAM_SHORT_LAMBDA	! name of the telescope
+40000                           ! exposure time
+0.0				! seeing ["]
+/Users/amalagon/share/astro/PSF/JWST_PSF_F090W.fits  !psf image
+0.008				! psf scale
+F070W_NRC_and_OTE_ModAB_mean_angstroms_JWST.ecf  !throughput
+0.2                             !0.1108035			! sky surf brightness or sky e-/s (put 0.0 to calculate)
+elect				! write elect if the sky level is given in e-/s (including dark current)
+UDF				! sif dataset
+-100				! random seed
+20				! number of exposures 
+30.0				! maximum magnitude
+100

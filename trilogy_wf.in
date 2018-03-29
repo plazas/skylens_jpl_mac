@@ -1,0 +1,20 @@
+B
+image_WFIRST_WFI_Y106_withcl.fits
+
+G
+image_WFIRST_WFI_J129_withcl.fits
+
+R
+image_WFIRST_WFI_H158_withcl.fits
+
+indir  /Users/dcoe/CLASH/a383/
+outname  WFIRST_WFI_COLOR_WITHCL
+samplesize 2000
+stampsize  2500
+showstamps  0
+satpercent  0.001
+noiselum    0.15
+colorsatfac  1
+deletetests  0
+sampledx  0
+sampledy  0
